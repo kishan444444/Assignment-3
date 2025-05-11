@@ -17,4 +17,6 @@ jobs:
       - name: Push to hub
         env:
           HF_TOKEN: ${{ secrets.HF_TOKEN }}
-        run: git push https://kishan444444:$HF_TOKEN@huggingface.co/spaces/kishan444444/RAG-Powered-Multi-Agent-Q-A-Assistant main
+        run: git push https:// kishan4444:$HF_TOKEN@huggingface.co/spaces/ kishan4444/RAG-Powered main
+ 
+
