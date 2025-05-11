@@ -1,0 +1,41 @@
+[2025-05-09 10:53:59,782] 211 sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+[2025-05-09 10:53:59,782] 219 sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+[2025-05-09 10:54:34,358] 113 faiss.loader - INFO - Loading faiss with AVX512 support.
+[2025-05-09 10:54:34,358] 118 faiss.loader - INFO - Could not load library with AVX512 support due to:
+ModuleNotFoundError("No module named 'faiss.swigfaiss_avx512'")
+[2025-05-09 10:54:34,358] 125 faiss.loader - INFO - Loading faiss with AVX2 support.
+[2025-05-09 10:54:34,414] 127 faiss.loader - INFO - Successfully loaded faiss with AVX2 support.
+[2025-05-09 10:54:34,430] 186 faiss - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+[2025-05-09 10:54:35,606] 1025 httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-05-09 10:54:36,220] 1025 httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-05-09 10:56:24,407] 211 sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+[2025-05-09 10:56:24,408] 219 sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+[2025-05-09 10:57:08,184] 1025 httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-05-09 10:57:08,798] 1025 httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-05-09 10:57:49,580] 211 sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+[2025-05-09 10:57:49,580] 219 sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+[2025-05-09 10:58:34,514] 1025 httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-05-09 10:58:36,252] 464 primp - INFO - response: https://html.duckduckgo.com/html 200
+[2025-05-09 10:58:37,273] 1025 httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-05-09 10:58:38,808] 464 primp - INFO - response: https://lite.duckduckgo.com/lite/ 200
+[2025-05-09 10:58:39,526] 1025 httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-05-09 10:59:57,225] 211 sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+[2025-05-09 10:59:57,225] 219 sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+[2025-05-09 11:00:41,624] 1025 httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-05-09 11:00:42,305] 1025 httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-05-09 11:00:42,816] 1025 httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-05-09 11:03:47,341] 211 sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+[2025-05-09 11:03:47,341] 219 sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+[2025-05-09 11:04:34,243] 211 sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+[2025-05-09 11:04:34,243] 219 sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+[2025-05-09 11:04:37,111] 1025 httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-05-09 11:04:38,443] 1025 httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-05-09 11:04:39,159] 1025 httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-05-09 11:05:19,301] 1025 httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-05-09 11:05:20,326] 1025 httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-05-09 11:05:21,144] 1025 httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-05-09 11:06:54,785] 211 sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+[2025-05-09 11:06:54,785] 219 sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+[2025-05-09 11:07:39,594] 1025 httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-05-09 11:07:40,206] 1025 httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-05-09 11:07:40,717] 1025 httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
